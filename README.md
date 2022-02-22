@@ -1,2 +1,2 @@
 ## Pokedex-API
-### monpokedex.netlify.app
+### https://monpokedex.netlify.app/
